@@ -1,5 +1,5 @@
 //@ts-nocheck
-let mytoken= [];
+let mytoken= ['tkone'];
 let addresses = [];
 let addressesapi = [];
 let addressesnotls = [];
